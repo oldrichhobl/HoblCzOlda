@@ -38,15 +38,15 @@ DIV.hm {
     margin: 5pt;
     background-color: #ffffcc;
 	border : 3px  outset #ffcccc;
-	max-width: 90%;
+	width: 90%;
 	}
 
 DIV.main{
-    margin: 5pt;
+  margin: 5pt;
 	padding:5 5 5 5;
 	border : 3px  outset #ffcccc;
 	width: 90%;
-	max-width: 800px;
+	max-width: 900px;
 	}
 	
 button {
