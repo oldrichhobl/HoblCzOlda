@@ -2,7 +2,7 @@ BODY {BackGround-color:silver;
      }
 
 H1, H2, H3, FAQ {
-    /*  font-family: "Arial CE", Arial, Helvetica, sans-serif;  */
+    font-family: "Arial CE", Arial, Helvetica, sans-serif; 
     color: white;
     background-color: #201e71;
     font-weight: bold;
